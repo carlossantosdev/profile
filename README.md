@@ -1,7 +1,7 @@
 # Me
 De São Paulo mas atualmente morando e trabalhando em Sorocaba, tenho 26 anos e a mais de 10 anos envolvido com o tecnologias e linguanges de programação. Desenvolvedor Back-End Senior com experiencia em PHP principalmente com a utilização do Framework Laravel e atualmente me aventurando nas Stacks de JavaScript como React, React Native e NodeJS.
 
-Divertido, comunicativo, carismático e dançarino. Gosto de desáfios e sou apaixonado em resolver problemas.
+Divertido, comunicativo, carismático e dançarino. Gosto de desafios e sou apaixonado em resolver problemas.
 
 ## Meus conhecimentos
 
